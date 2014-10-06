@@ -1,3 +1,3 @@
 path-tracing
 ============
-Edited file: src/ray/render
+Edited file: src/ray/renderer
